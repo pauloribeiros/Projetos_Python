@@ -6,4 +6,4 @@ Consolidação de dados de precificação, disponibilidade, tamanho, tipo, e loc
 
 Análise de dados e insigths realizados atráves de um dataset referente as mortes por covid no mundo. 
 
-Construção de uma núvem de plavras utilizando Python. 
+Construção de uma núvem de palavras utilizando Python. 
